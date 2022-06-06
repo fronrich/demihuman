@@ -1,0 +1,17 @@
+{
+  "height": 100,
+  "segmentation": 50,
+  "branchThickness": 20,
+  "branchSpread": 0,
+  "branchDensity": 20,
+  "branchVariability": 20,
+  "branchColor": "#856a12",
+  "leafDensity": 70,
+  "leafLength": 3,
+  "leafWidth": 3,
+  "leafColor": "#769c65",
+  "flowerDensity": 1,
+  "flowerPetalCount": 3,
+  "flowerPetalSpread": 100,
+  "flowerPetalColor": "#ca0000"
+}

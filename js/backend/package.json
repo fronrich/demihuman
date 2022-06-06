@@ -1,0 +1,23 @@
+{
+  "name": "demihumanbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --max-old-space-size=12000 --stack-size=5000 App.js",
+    "dev": "nodemon --max-old-space-size=12000 --stack-size=5000 App.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "canvas": "^2.9.1",
+    "express": "^4.18.1",
+    "jimp": "^0.16.1",
+    "nodemon": "^2.0.16",
+    "threads": "^1.7.0",
+    "tiny-worker": "^2.3.0"
+  }
+}
